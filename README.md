@@ -1,5 +1,5 @@
 # Perioperative Multibiomarker Assessment for Predicting Early, Mid and Late Major Adverse Cardiac and Cerebrovascular Events after Major Noncardiac Surgery
-** Authors **
+**Authors**
 
 Alberto Zenere, PhD 1,2#, Xiangyu Qiao, PhD 1,2#, Giovanna Lurati Buse, MD, PhD 3, Jan Larmann, MD, PhD 4, Miriam de Nadal, MD 5, PhD, Vanessa William Toma1,2, Ekaterine Popova, MD 6,7, Henrik Andersson, PhD 1, Michelle S Chew, MD, PhD 1,8*, Wen Zhong, PhD 1,2*
 
